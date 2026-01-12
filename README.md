@@ -46,7 +46,14 @@ A feature-rich Flutter Nutrition Tracker application that helps users log daily 
 
 ## 📸 Demo Screenshots
 
-https://github.com/AnishBind/Nutrition-Tracker/blob/main/Screenshotes/Home.jpeg?raw=true
+### 🏠 Home Screen
+![Home](Screenshotes/Home.jpeg)
+
+### ➕ Add Food Entry
+![Add Food](Screenshotes/AddFood.jpeg)
+
+### 👤 Profile Page
+![Profile](Screenshotes/Profile.jpeg)
 
 
 ---
