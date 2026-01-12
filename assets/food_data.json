@@ -1,0 +1,1964 @@
+[
+  {
+    "name": "adhirasam",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "aloo_gobi",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "aloo_matar",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "aloo_methi",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "aloo_shimla_mirch",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "aloo_tikki",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Aloo-fry",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Aloo",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "anarsa",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "apple",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "apples",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "apricot",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "ariselu",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "aubergine",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "avocado",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "banana",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "bandar_laddu",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "basundi",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "bean",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "beetroot",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "beetroot poriyal",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "bhatura",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Bhatura",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "BhindiMasala",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "bhindi_masala",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "biryani",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Biryani",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "boiled egg",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "boondi",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "bread",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "burger",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "butter chicken",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "butter_chicken",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "butter naan",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "buttter naan",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "butter_naan",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Cabbage",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "capsicum",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "carrot",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "carrot poriyal",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "chak_hao_kheer",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "cham_cham",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "chana_masala",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "chapati",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "Chole",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "chicken",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "chicken 65",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "chicken briyani",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "chicken_rezala",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "chicken_razala",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "chicken_tikka",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "chicken_tikka_masala",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "chikki",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "chili",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Chutney",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "chutney",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Curd",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "coconut",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Corriander",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "corn",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "cucumber",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "curry",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "cutlet",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "daal_baati_churma",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "daal_puri",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Daal",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "dal",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "dal_makhani",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Dal-curry",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Dal Tadka",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "dal_tadka",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "dates",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "dhokla",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "double_ka_meetha",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "dosa",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "dry-curry",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "dum_aloo",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "egg",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "fig",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "fried_rice",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "friedchicken",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "gajar_ka_halwa",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "gajar ka halwa",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "garlic",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "gavvalu",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "geapes",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "ghevar",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "ginger",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "grape",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "greapefurit",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "greenonions",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "greens",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Green Chilli",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "guava",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "gujiya",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "gulab jamun",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "gulab_jamun",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "idli",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "idly",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "imarti",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "jalebi",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "kachori",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "kaara chutney",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "kaathi_rolls",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "kadai_paneer",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Kadai Paneer",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "kadhi_pakoda",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "kadi pakoda",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "kajjikaya",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "kakinada_khaja",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Kalakand",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "kalakand",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "karela_bharta",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "kiwi",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "kofta",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "koozh",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Kulcha",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "kulfi",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "kuzhi_paniyaram",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "lassi",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "ledikeni",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "ledisfingers",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "lemon",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "lemon satham",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "litti",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "litti_chokha",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "lyangcha",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "maach_jhol",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "mango",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "makki_di_roti_sarson_da_saag",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "malapua",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "masala_dosa",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "misi_roti",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "misti_doi",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "modak",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "mvada",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "melon",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "medu vadai",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "momos",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "mushroom briyani",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "mushrooms",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "mutton briyani",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "mysore_pak",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "naan",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "nandu masala",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "navrattan_korma",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "nei satham",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "naan",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "navrattan_korma",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "olive",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "onion",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "orange",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "paal kolukattai",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "paani_puri",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "pach",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "pakoda",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "pakode",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "palak_paneer",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Palak_paneer",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Paneer_tikka",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "paneer",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "paneer briyani",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "paneer butter masala",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "paneer_butter_masala",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "paneer masala",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "papaya",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "parupu vadai",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "pav_bhaji",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "pear",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "phirni",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "pineapple",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "pithe",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "pizza",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "poha",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "poornalu",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "poori",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "poorna kolukattai",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "pootharekulu",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "prawn thokku",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "puthina chutney",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "qubani_ka_meetha",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "rabri",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "radish",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "ras_malai",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "rasgulla",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "rasmalai",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "raspberry",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Rice",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "rice",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "roti",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "Roti",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "Salad",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "sambar",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "sambhar",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "sambar satham",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "satham",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "samosa",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Sandesh",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "ShahiPaneer",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "shankarpali",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "sheer_korma",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "sheera",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "shrikhand",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "sohan_halwa",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "sohan_papdi",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "srawberry",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "sutar_feni",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "Sweet",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "sweet potato",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "thengai chutney",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "tomato",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "tower burger",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "unni_appam",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "vada",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "piece"
+  },
+  {
+    "name": "veg briyani",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "vegatable salad",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "ven pongal",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  },
+  {
+    "name": "wet-curry",
+    "default_weight_g": 100,
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 20,
+    "fat_g": 5,
+    "unit": "g"
+  }
+]

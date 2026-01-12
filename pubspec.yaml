@@ -1,0 +1,51 @@
+name: nutrition_tracker
+description: Nutrition Tracker app with AI food detection, local database, CSV & PDF export, and chart visualization.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Icons
+  cupertino_icons: ^1.0.8
+
+  # Camera / Gallery Picker
+  image_picker: ^1.1.2
+
+  # HTTP Requests
+  http: ^1.2.2
+
+  # Local Database
+  sqflite: ^2.4.2
+  path: ^1.9.1
+  path_provider: ^2.1.4
+
+  # CSV & Sharing
+  csv: ^6.0.0
+  share_plus: ^11.1.0
+
+  # Charts (Pie chart)
+  fl_chart: ^0.69.0
+
+  # PDF Export
+  pdf: ^3.10.8
+  printing: ^5.13.1
+
+  # State Management
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/food_data.json
