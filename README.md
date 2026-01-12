@@ -49,8 +49,8 @@ A feature-rich Flutter Nutrition Tracker application that helps users log daily 
 <p align="center">
   <img src="Screenshotes/Home.jpeg" width="180"/>
   <img src="Screenshotes/Food list.jpeg" width="180"/>
-  <img src="Screenshotes/Profile.jpeg" width="180"/>
-  <img src="Screenshotes/Sign Up.jpeg" width="180"/>
+  <img src="Screenshotes/Profile.jpeg" width="200"/>
+  <img src="Screenshotes/Sign Up.jpeg" width="200"/>
 </p>
 
 
