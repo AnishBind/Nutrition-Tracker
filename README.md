@@ -46,14 +46,12 @@ A feature-rich Flutter Nutrition Tracker application that helps users log daily 
 
 ## 📸 Demo Screenshots
 
-### 🏠 Home Screen
-![Home](Screenshotes/Home.jpeg)
-
-### ➕ Add Food Entry
-![Add Food](Screenshotes/AddFood.jpeg)
-
-### 👤 Profile Page
-![Profile](Screenshotes/Profile.jpeg)
+<p align="center">
+  <img src="Screenshotes/Home.jpeg" width="180"/>
+  <img src="Screenshotes/Food list.jpeg" width="180"/>
+  <img src="Screenshotes/Profile.jpeg" width="180"/>
+  <img src="Screenshotes/Sign Up.jpeg" width="180"/>
+</p>
 
 
 ---
